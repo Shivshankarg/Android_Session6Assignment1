@@ -1,0 +1,16 @@
+a) What is menu? Write its importance.
+-> Menus are a common user interface component in many types of applications.
+
+b) What is options menu? When it is activated?
+-> The options menu is the primary collection of menu items for an activity.
+  It's where you should place actions that have a global impact on the app, 
+  such as "Search," "Compose email," and "Settings." 
+  It is activated by menu hard button or by clicking on three dots on action bar.
+
+c) What is context menu? When it is activated?
+-> A context menu is a floating menu that appears when the user performs a tap 
+  and hold on an element. It provides actions that affect the selected content 
+  or context frame.
+
+d) What is the alternative of ActionBarActivity as its deprecated?
+-> Alternative of ActionBarActivity is AppCompactActivity.
